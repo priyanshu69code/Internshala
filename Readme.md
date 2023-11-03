@@ -68,5 +68,3 @@ dtype: object
 ## Conclusion
 
 This code snippet demonstrates how to extract and format expiry dates from a Pandas Series using regular expressions and convert them to DateTime objects. The extracted dates are then printed as a new Series.
-
-Feel free to modify and use this code for your own data extraction tasks.
